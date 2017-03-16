@@ -1,3 +1,16 @@
+/**
+ * Framework7 React 0.8.5-beta.3
+ * A React version of Framework7
+ * https://github.com/bencompton/framework7-react#readme
+ * 
+ * Copyright 2017
+ * 
+ * http://www.framework7.io/
+ * 
+ * Licensed under APACHE 2.0
+ * 
+ * Released on: March 16, 2017
+ */
 var Framework7React =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
