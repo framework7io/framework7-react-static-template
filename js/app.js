@@ -1,4 +1,5 @@
-var Framework7App = Framework7React.Framework7App,
+var Framework7React = window['framework7-react'],
+	Framework7App = Framework7React.Framework7App,
     Statusbar = Framework7React.Statusbar,
     Panel = Framework7React.Panel,
     View = Framework7React.View,
