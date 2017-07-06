@@ -9,3 +9,7 @@ git clone https://github.com/bencompton/framework7-react-static-template/ my-app
 ```
 
 To run the app, simply launch the index.html file.
+
+### Issues
+
+Please log any issues to the main [framework7-react repo](https://github.com/bencompton/framework7-react/issues).
